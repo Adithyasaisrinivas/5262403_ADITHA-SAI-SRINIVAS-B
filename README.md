@@ -59,7 +59,7 @@ During Week 1, I studied several foundational topics crucial for understanding s
 ![Simplilearn Git Certificate](simp8695455_90430521753635594088.pdf)
 
 ### 2. Agile & SDLC Course by Great Learning
-![Great Learning Certificate](greeatlearning course.png)
+![Great Learning Certificate](greatlearningcourse.png)
 
 ---
 
