@@ -56,7 +56,7 @@ During Week 1, I studied several foundational topics crucial for understanding s
 ## 📜 Certificates
 
 ### 1. Git Course by Simplilearn
-![Simplilearn Git Certificate](/GIT COURSE/8695455_90430521753635594088.pdf)
+📄 [View Certificate (PDF)](GIT%20COURSE/8695455_90430521753635594088.pdf)
 
 ### 2. Agile & SDLC Course by Great Learning
 ![Great Learning Certificate](/SDLC/greatlearningcourse.png)
